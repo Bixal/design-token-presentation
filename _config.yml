@@ -1,8 +1,8 @@
 # Set a plain language title for the site.
-title: Bixal Presentation Template
+title: USWDS Design Token Guide Presentation
 
 # Write a short description for the site. This is used for "meta description."
-description: A template for creating web-based presentation slides using USWDS and Bixal branding
+description: A presentation of what led to creating a guide to using design tokens, how the guide is organized, and how to give feedback on the guide.
 
 # Set the language for the site. Used for "html lang." Default is English.
 lang: en
@@ -11,7 +11,7 @@ lang: en
 github: [metadata]
 
 # Enable for live hosting on GitHub Pages
-baseurl: /presentation-template
+baseurl: /USWDS-token-guide-presentation
 
 # Remove generation of additional style.css
 theme: null
