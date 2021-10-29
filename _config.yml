@@ -11,7 +11,7 @@ lang: en
 github: [metadata]
 
 # Enable for live hosting on GitHub Pages
-baseurl: /USWDS-token-guide-presentation
+baseurl: /design-token-presentation
 
 # Remove generation of additional style.css
 theme: null
